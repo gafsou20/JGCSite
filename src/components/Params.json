@@ -1,0 +1,204 @@
+{
+  "_id":{
+    "$oid":"610c076ab0702ec6c88574db"
+  },
+  "id":1,
+  "client_id":"pT78JwZjkLjP338",
+  "domaine":"jg-connect.com",
+  "adresse":{
+    "rue":"Alonim 5",
+    "ville":"Ramat Gan",
+    "cp":"",
+    "pays":"Israel",
+    "lon":null,
+    "lat":null
+  },
+  "name":"JG Connect",
+  "contact":{
+    "facebook": null,
+    "instagram": null,
+    "whatsapp":"https://wa.me/972548313225",
+    "email":"contact@jg-connect.com",
+    "phone":"+972548313225"
+  },
+  "description":{
+    "fr":"JG Connect, votre partenaire de confiance.<br> Expert en problématique d'entreprise depuis 10 ans.<br> Nous vous accompagnons votre stratégie d'entreprise.<br> Grace a nos CRM à la pointe des nouvelles technologies, nous élaborons des outils sur-mesure, adapter à vos besoins.<br> Fini vos problèmes de téléphonie d'entreprise. Nous sommes là pour vous structurer et vous aide a élaborer des stratégies d'appel intelligent.",
+    "en":"JG Connect, your trusted partner.<br> Expert in business issues for 10 years.<br> We support you in your business strategy.<br> Thanks to our CRM at the cutting edge of new technologies, we develop tailor-made tools, adapted to your needs.<br> No more business telephony problems. We are here to structure you and help you develop smart calling strategies."
+  },
+  "galery":[],
+  "colors":{
+    "primary":"#000000",
+    "secondary":"#009688"
+  },
+  "langues":[
+    {
+      "titre":"Francais",
+      "code":"fr",
+      "flag":"fr"
+    },
+    {
+      "titre":"English",
+      "code":"en",
+      "flag":"us"
+    }
+  ],
+  "menu":[
+    {
+      "titre":{
+        "fr":"A propos de nous",
+        "en":"About us"
+      },
+      "action":"about",
+      "icon":"ion-person"
+    },
+    {
+      "titre":{
+        "fr":"Sérvice",
+        "en":"Service"
+      },
+      "action":"resume",
+      "icon":"ion-android-list"
+    },
+    {
+      "titre":{
+        "fr":"Contact",
+        "en":"Contact"
+      },
+      "action":"contact",
+      "icon":"ion-at"
+    }
+  ],
+  "services":[
+    {
+      "titre":{
+        "fr":"Développement",
+        "en":"Development"
+      },
+      "description":{
+        "fr":"JG Connect, a la pointe de la technologie. Grace a nos méthodes scalables, vos outils évolue en même temps que votre entreprise. Fini les problèmes de conception, à n'importe quel moment vous avez la possibilité de faire évolue vos outils.",
+        "en":"JG Connect, at the forefront of technology. Thanks to our scalable methods, your tools evolve at the same time as your company. No more design problems, at any time you have the possibility to upgrade your tools."
+      }
+    },
+    {
+      "titre":{
+        "fr":"Téléphonie",
+        "en":"Telephony"
+      },
+      "description":{
+        "fr":"Vous payez cher ? Vous n'avez pas la possibilité de connecter votre système de téléphonie à vos outils ? Ne cherchez plus JG Connect s'occupe de tout. Grace a nos partenaires, opérateurs de confiance, nous sommes là. Nous vous installons votre parc téléphonique, et l'intégrons a vos outils de communication. La création de stratégie d'appels intelligents.",
+        "en":"Are you paying dearly? You do not have the possibility to connect your telephone system to your tools? Look no further JG Connect takes care of everything. Thanks to our partners, trusted operators, we are here. We install your telephone fleet, and integrate it into your communication tools. Creation of smart calling strategy."
+      }
+    },
+    {
+      "titre":{
+        "fr":"Stratégie d'entreprise",
+        "en":"Business strategy"
+      },
+      "description":{
+        "fr":"",
+        "en":""
+      }
+    }
+  ],
+  "words":{
+    "adresse":{
+      "fr":"Adresse",
+      "en":"Address"
+    },
+    "email":{
+      "fr":"Email",
+      "en":"Email"
+    },
+    "telephone":{
+      "fr":"Telephone",
+      "en":"Phone"
+    },
+    "form_contact":{
+      "fr":"Laisser un message",
+      "en":"Leave a message"
+    },
+    "nom_complet":{
+      "fr":"Nom Complet",
+      "en":"Full Name"
+    },
+    "votre_email":{
+      "fr":"Votre Adresse Email",
+      "en":"Your Email Address"
+    },
+    "votre_message":{
+      "fr":"Votre Message",
+      "en":"Your Message"
+    },
+    "form_contact_send":{
+      "fr":"Envoyer le message",
+      "en":"Send message"
+    },
+    "merci_lead":{
+      "fr":"Merci, nous avons bien recu votre message.",
+      "en":"Thank you, we have received your message."
+    }
+  },
+  "blogs":[
+    {
+      "titre":{
+        "fr":"Choisir son diamant",
+        "en":"Choose your diamond"
+      },
+      "description":{
+        "fr":"La vente d’un diamant ne s’improvise pas. Pour apprécier sa valeur, il faut tout d’abord savoir comment l’estimer. Le poids du diamant est un des critères les plus importants. Exprimé en carat, la valeur de 1 carat correspond à 0,20 gramme. La pureté du diamant qui s’exprime de « IF » jusqu’à « P » ne peut être déterminée que par l’expertise d’un diamantaire. Celle-ci est évaluée par le nombre et la position des inclusions dans la pierre. Une pierre « IF » correspond au degré de pureté le plus élevé tandis qu’une pierre piquée correspond au degré de pureté le plus bas. La couleur du diamant est également un critère essentiel à évaluer pour vendre un diamant. On utilise pour cela une échelle : de D pour blanc neige à Z pour jaune prononcé. Pour connaitre la couleur, posez votre diamant sur une feuille blanche bristol. Pour vendre votre diamant, sa qualité de taille est également très importante. Un diamant de couleur n’a pas de proportions idéales c’est avant tout une question de goût. Cependant, on veillera à respecter certaines proportions pour donner au diamant toute sa brillance. Par contre, pour les diamants blancs, la tendance actuelle exige au minimum 3 fois « Very Good », voire 3 fois « Excellent » en Proportion, Polissage et Symétrie. Cela vous garantie un éclat optimal. Les proportions « good » donnent par contre un aspect terne à la pierre ; ce sont souvent des diamants plats. La fluorescence : Choisissez un diamant de fluorescence « none » (ou « nil » (nulle)), « slight » (faible), uniquement pour des couleurs D, E, F ou G. Évitez les diamants de fluorescence « strong » (forte), elle donnerait un aspect laiteux à la pierre. Choisissez une fluorescence « strong » pour des diamants ayant des couleurs H, I, J… ; cela améliorera la brillance et la couleur de la pierre.",
+        "en":"Selling a diamond cannot be improvised. To appreciate its value, you first need to know how to estimate it. The weight of the diamond is one of the most important criteria. Expressed in carat, the value of 1 carat corresponds to 0.20 grams. The purity of a diamond which ranges from 'IF' to 'P' can only be determined by the expertise of a diamond dealer. This is evaluated by the number and position of the inclusions in the stone. An 'IF' stone corresponds to the highest degree of purity while a pitted stone corresponds to the lowest degree of purity. The color of the diamond is also an essential criterion to evaluate when selling a diamond. A scale is used for this: from D for snow white to Z for pronounced yellow. To know the color, place your diamond on a white sheet of Bristol board. To sell your diamond, its cut quality is also very important. A colored diamond does not have ideal proportions, it is above all a matter of taste. However, we will take care to respect certain proportions to give the diamond all its brilliance. On the other hand, for white diamonds, the current trend requires at least 3 times “Very Good”, or even 3 times “Excellent” in Proportion, Polishing and Symmetry. This guarantees you optimal shine. The “good” proportions on the other hand give a dull aspect to the stone; they are often flat diamonds. Fluorescence: Choose a diamond with fluorescence 'none' (or 'nil' (null)), 'slight' (weak), only for colors D, E, F or G. Avoid diamonds with 'strong' fluorescence. ), it would give a milky appearance to the stone. Choose a “strong” fluorescence for diamonds with colors H, I, J…; this will improve the shine and color of the stone."
+      },
+      "img":"https://www.diamant-gems.com/wp-content/uploads/2015/12/diamants-blancs-certifies-1024x683.jpg",
+      "date_create":1629965095
+    },
+    {
+      "titre":{
+        "fr":"Choisir son diamant",
+        "en":"Choose your diamond"
+      },
+      "description":{
+        "fr":"La vente d’un diamant ne s’improvise pas. Pour apprécier sa valeur, il faut tout d’abord savoir comment l’estimer. Le poids du diamant est un des critères les plus importants. Exprimé en carat, la valeur de 1 carat correspond à 0,20 gramme. La pureté du diamant qui s’exprime de « IF » jusqu’à « P » ne peut être déterminée que par l’expertise d’un diamantaire. Celle-ci est évaluée par le nombre et la position des inclusions dans la pierre. Une pierre « IF » correspond au degré de pureté le plus élevé tandis qu’une pierre piquée correspond au degré de pureté le plus bas. La couleur du diamant est également un critère essentiel à évaluer pour vendre un diamant. On utilise pour cela une échelle : de D pour blanc neige à Z pour jaune prononcé. Pour connaitre la couleur, posez votre diamant sur une feuille blanche bristol. Pour vendre votre diamant, sa qualité de taille est également très importante. Un diamant de couleur n’a pas de proportions idéales c’est avant tout une question de goût. Cependant, on veillera à respecter certaines proportions pour donner au diamant toute sa brillance. Par contre, pour les diamants blancs, la tendance actuelle exige au minimum 3 fois « Very Good », voire 3 fois « Excellent » en Proportion, Polissage et Symétrie. Cela vous garantie un éclat optimal. Les proportions « good » donnent par contre un aspect terne à la pierre ; ce sont souvent des diamants plats. La fluorescence : Choisissez un diamant de fluorescence « none » (ou « nil » (nulle)), « slight » (faible), uniquement pour des couleurs D, E, F ou G. Évitez les diamants de fluorescence « strong » (forte), elle donnerait un aspect laiteux à la pierre. Choisissez une fluorescence « strong » pour des diamants ayant des couleurs H, I, J… ; cela améliorera la brillance et la couleur de la pierre.",
+        "en":"Selling a diamond cannot be improvised. To appreciate its value, you first need to know how to estimate it. The weight of the diamond is one of the most important criteria. Expressed in carat, the value of 1 carat corresponds to 0.20 grams. The purity of a diamond which ranges from 'IF' to 'P' can only be determined by the expertise of a diamond dealer. This is evaluated by the number and position of the inclusions in the stone. An 'IF' stone corresponds to the highest degree of purity while a pitted stone corresponds to the lowest degree of purity. The color of the diamond is also an essential criterion to evaluate when selling a diamond. A scale is used for this: from D for snow white to Z for pronounced yellow. To know the color, place your diamond on a white sheet of Bristol board. To sell your diamond, its cut quality is also very important. A colored diamond does not have ideal proportions, it is above all a matter of taste. However, we will take care to respect certain proportions to give the diamond all its brilliance. On the other hand, for white diamonds, the current trend requires at least 3 times “Very Good”, or even 3 times “Excellent” in Proportion, Polishing and Symmetry. This guarantees you optimal shine. The “good” proportions on the other hand give a dull aspect to the stone; they are often flat diamonds. Fluorescence: Choose a diamond with fluorescence 'none' (or 'nil' (null)), 'slight' (weak), only for colors D, E, F or G. Avoid diamonds with 'strong' fluorescence. ), it would give a milky appearance to the stone. Choose a “strong” fluorescence for diamonds with colors H, I, J…; this will improve the shine and color of the stone."
+      },
+      "img":"https://www.tellor-diamantaire.fr/3733-thickbox_default/diamant-coussin-070-ct-e-si1.jpg",
+      "date_create":1629965095
+    },
+    {
+      "titre":{
+        "fr":"Choisir son diamant",
+        "en":"Choose your diamond"
+      },
+      "description":{
+        "fr":"La vente d’un diamant ne s’improvise pas. Pour apprécier sa valeur, il faut tout d’abord savoir comment l’estimer. Le poids du diamant est un des critères les plus importants. Exprimé en carat, la valeur de 1 carat correspond à 0,20 gramme. La pureté du diamant qui s’exprime de « IF » jusqu’à « P » ne peut être déterminée que par l’expertise d’un diamantaire. Celle-ci est évaluée par le nombre et la position des inclusions dans la pierre. Une pierre « IF » correspond au degré de pureté le plus élevé tandis qu’une pierre piquée correspond au degré de pureté le plus bas. La couleur du diamant est également un critère essentiel à évaluer pour vendre un diamant. On utilise pour cela une échelle : de D pour blanc neige à Z pour jaune prononcé. Pour connaitre la couleur, posez votre diamant sur une feuille blanche bristol. Pour vendre votre diamant, sa qualité de taille est également très importante. Un diamant de couleur n’a pas de proportions idéales c’est avant tout une question de goût. Cependant, on veillera à respecter certaines proportions pour donner au diamant toute sa brillance. Par contre, pour les diamants blancs, la tendance actuelle exige au minimum 3 fois « Very Good », voire 3 fois « Excellent » en Proportion, Polissage et Symétrie. Cela vous garantie un éclat optimal. Les proportions « good » donnent par contre un aspect terne à la pierre ; ce sont souvent des diamants plats. La fluorescence : Choisissez un diamant de fluorescence « none » (ou « nil » (nulle)), « slight » (faible), uniquement pour des couleurs D, E, F ou G. Évitez les diamants de fluorescence « strong » (forte), elle donnerait un aspect laiteux à la pierre. Choisissez une fluorescence « strong » pour des diamants ayant des couleurs H, I, J… ; cela améliorera la brillance et la couleur de la pierre.",
+        "en":"Selling a diamond cannot be improvised. To appreciate its value, you first need to know how to estimate it. The weight of the diamond is one of the most important criteria. Expressed in carat, the value of 1 carat corresponds to 0.20 grams. The purity of a diamond which ranges from 'IF' to 'P' can only be determined by the expertise of a diamond dealer. This is evaluated by the number and position of the inclusions in the stone. An 'IF' stone corresponds to the highest degree of purity while a pitted stone corresponds to the lowest degree of purity. The color of the diamond is also an essential criterion to evaluate when selling a diamond. A scale is used for this: from D for snow white to Z for pronounced yellow. To know the color, place your diamond on a white sheet of Bristol board. To sell your diamond, its cut quality is also very important. A colored diamond does not have ideal proportions, it is above all a matter of taste. However, we will take care to respect certain proportions to give the diamond all its brilliance. On the other hand, for white diamonds, the current trend requires at least 3 times “Very Good”, or even 3 times “Excellent” in Proportion, Polishing and Symmetry. This guarantees you optimal shine. The “good” proportions on the other hand give a dull aspect to the stone; they are often flat diamonds. Fluorescence: Choose a diamond with fluorescence 'none' (or 'nil' (null)), 'slight' (weak), only for colors D, E, F or G. Avoid diamonds with 'strong' fluorescence. ), it would give a milky appearance to the stone. Choose a “strong” fluorescence for diamonds with colors H, I, J…; this will improve the shine and color of the stone."
+      },
+      "img":"https://www.diamant-gems.com/wp-content/uploads/2016/04/emeraude.jpg",
+      "date_create":1629965095
+    },
+    {
+      "titre":{
+        "fr":"Choisir son diamant",
+        "en":"Choose your diamond"
+      },
+      "description":{
+        "fr":"La vente d’un diamant ne s’improvise pas. Pour apprécier sa valeur, il faut tout d’abord savoir comment l’estimer. Le poids du diamant est un des critères les plus importants. Exprimé en carat, la valeur de 1 carat correspond à 0,20 gramme. La pureté du diamant qui s’exprime de « IF » jusqu’à « P » ne peut être déterminée que par l’expertise d’un diamantaire. Celle-ci est évaluée par le nombre et la position des inclusions dans la pierre. Une pierre « IF » correspond au degré de pureté le plus élevé tandis qu’une pierre piquée correspond au degré de pureté le plus bas. La couleur du diamant est également un critère essentiel à évaluer pour vendre un diamant. On utilise pour cela une échelle : de D pour blanc neige à Z pour jaune prononcé. Pour connaitre la couleur, posez votre diamant sur une feuille blanche bristol. Pour vendre votre diamant, sa qualité de taille est également très importante. Un diamant de couleur n’a pas de proportions idéales c’est avant tout une question de goût. Cependant, on veillera à respecter certaines proportions pour donner au diamant toute sa brillance. Par contre, pour les diamants blancs, la tendance actuelle exige au minimum 3 fois « Very Good », voire 3 fois « Excellent » en Proportion, Polissage et Symétrie. Cela vous garantie un éclat optimal. Les proportions « good » donnent par contre un aspect terne à la pierre ; ce sont souvent des diamants plats. La fluorescence : Choisissez un diamant de fluorescence « none » (ou « nil » (nulle)), « slight » (faible), uniquement pour des couleurs D, E, F ou G. Évitez les diamants de fluorescence « strong » (forte), elle donnerait un aspect laiteux à la pierre. Choisissez une fluorescence « strong » pour des diamants ayant des couleurs H, I, J… ; cela améliorera la brillance et la couleur de la pierre.",
+        "en":"Selling a diamond cannot be improvised. To appreciate its value, you first need to know how to estimate it. The weight of the diamond is one of the most important criteria. Expressed in carat, the value of 1 carat corresponds to 0.20 grams. The purity of a diamond which ranges from 'IF' to 'P' can only be determined by the expertise of a diamond dealer. This is evaluated by the number and position of the inclusions in the stone. An 'IF' stone corresponds to the highest degree of purity while a pitted stone corresponds to the lowest degree of purity. The color of the diamond is also an essential criterion to evaluate when selling a diamond. A scale is used for this: from D for snow white to Z for pronounced yellow. To know the color, place your diamond on a white sheet of Bristol board. To sell your diamond, its cut quality is also very important. A colored diamond does not have ideal proportions, it is above all a matter of taste. However, we will take care to respect certain proportions to give the diamond all its brilliance. On the other hand, for white diamonds, the current trend requires at least 3 times “Very Good”, or even 3 times “Excellent” in Proportion, Polishing and Symmetry. This guarantees you optimal shine. The “good” proportions on the other hand give a dull aspect to the stone; they are often flat diamonds. Fluorescence: Choose a diamond with fluorescence 'none' (or 'nil' (null)), 'slight' (weak), only for colors D, E, F or G. Avoid diamonds with 'strong' fluorescence. ), it would give a milky appearance to the stone. Choose a “strong” fluorescence for diamonds with colors H, I, J…; this will improve the shine and color of the stone."
+      },
+      "img":"https://www.ma-bague-de-fiancailles.com/visuel_tinymce/1389799134_diamant-taille-emeraude-fiche.png",
+      "date_create":1629965095
+    },
+    {
+      "titre":{
+        "fr":"Choisir son diamant",
+        "en":"Choose your diamond"
+      },
+      "description":{
+        "fr":"La vente d’un diamant ne s’improvise pas. Pour apprécier sa valeur, il faut tout d’abord savoir comment l’estimer. Le poids du diamant est un des critères les plus importants. Exprimé en carat, la valeur de 1 carat correspond à 0,20 gramme. La pureté du diamant qui s’exprime de « IF » jusqu’à « P » ne peut être déterminée que par l’expertise d’un diamantaire. Celle-ci est évaluée par le nombre et la position des inclusions dans la pierre. Une pierre « IF » correspond au degré de pureté le plus élevé tandis qu’une pierre piquée correspond au degré de pureté le plus bas. La couleur du diamant est également un critère essentiel à évaluer pour vendre un diamant. On utilise pour cela une échelle : de D pour blanc neige à Z pour jaune prononcé. Pour connaitre la couleur, posez votre diamant sur une feuille blanche bristol. Pour vendre votre diamant, sa qualité de taille est également très importante. Un diamant de couleur n’a pas de proportions idéales c’est avant tout une question de goût. Cependant, on veillera à respecter certaines proportions pour donner au diamant toute sa brillance. Par contre, pour les diamants blancs, la tendance actuelle exige au minimum 3 fois « Very Good », voire 3 fois « Excellent » en Proportion, Polissage et Symétrie. Cela vous garantie un éclat optimal. Les proportions « good » donnent par contre un aspect terne à la pierre ; ce sont souvent des diamants plats. La fluorescence : Choisissez un diamant de fluorescence « none » (ou « nil » (nulle)), « slight » (faible), uniquement pour des couleurs D, E, F ou G. Évitez les diamants de fluorescence « strong » (forte), elle donnerait un aspect laiteux à la pierre. Choisissez une fluorescence « strong » pour des diamants ayant des couleurs H, I, J… ; cela améliorera la brillance et la couleur de la pierre.",
+        "en":"Selling a diamond cannot be improvised. To appreciate its value, you first need to know how to estimate it. The weight of the diamond is one of the most important criteria. Expressed in carat, the value of 1 carat corresponds to 0.20 grams. The purity of a diamond which ranges from 'IF' to 'P' can only be determined by the expertise of a diamond dealer. This is evaluated by the number and position of the inclusions in the stone. An 'IF' stone corresponds to the highest degree of purity while a pitted stone corresponds to the lowest degree of purity. The color of the diamond is also an essential criterion to evaluate when selling a diamond. A scale is used for this: from D for snow white to Z for pronounced yellow. To know the color, place your diamond on a white sheet of Bristol board. To sell your diamond, its cut quality is also very important. A colored diamond does not have ideal proportions, it is above all a matter of taste. However, we will take care to respect certain proportions to give the diamond all its brilliance. On the other hand, for white diamonds, the current trend requires at least 3 times “Very Good”, or even 3 times “Excellent” in Proportion, Polishing and Symmetry. This guarantees you optimal shine. The “good” proportions on the other hand give a dull aspect to the stone; they are often flat diamonds. Fluorescence: Choose a diamond with fluorescence 'none' (or 'nil' (null)), 'slight' (weak), only for colors D, E, F or G. Avoid diamonds with 'strong' fluorescence. ), it would give a milky appearance to the stone. Choose a “strong” fluorescence for diamonds with colors H, I, J…; this will improve the shine and color of the stone."
+      },
+      "img":"https://www.calirra.com/public/products-images/big-image/207.jpg",
+      "date_create":1629965095
+    }
+  ],
+  "date_update":1634584406
+}

@@ -1,0 +1,37 @@
+@import "https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i";
+@import "basic.css";
+@import "layout_new.css";
+@import "blogs.css";
+@import "ionicons.css";
+@import "magnific-popup.css";
+@import "animate.css";
+@import "owl.carousel.css";
+@import "gradient.css";
+@import "new-skin/skin.css";
+@import "demos/demo-2-colors.css";
+@import "new-skin/classic-skin.css";
+@import "template-dark/dark.css";
+
+.custom.char {
+  color: var(--theme-color-secondary) !important
+}
+.media-icon {
+  font-size: 35px
+}
+.langues-select{
+  margin-top: 145% !important;
+}
+@media only screen and (max-width: 768px) {
+  .langues-select{
+    position: fixed !important;
+    left: 0 !important;
+    bottom: 0 !important;
+  }
+  .profile.no-photo .title{
+    margin-top: 215px !important;
+  }
+}
+.blog-image {
+  max-width: 291px !important;
+  max-height: 194px !important;
+}
