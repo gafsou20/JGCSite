@@ -51,7 +51,7 @@
                     <span class="arrow"></span>
                   </a>
                   <a class="button" v-else>
-                    <span class="text" v-html="$store.app.getWords('merci_lead')"></span>                    
+                    <span class="text" v-html="$store.app.getWords('merci_lead')"></span>
                   </a>
                 </div>
               </form>
@@ -77,7 +77,7 @@
           "telephone":null,
           "msg":null
         },
-        title: this.$store.app.getTitlePage(),
+        title: this.$store.app.getTitlePage("contact"),
         sended:false
       }
     },

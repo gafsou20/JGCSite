@@ -25,7 +25,7 @@
   export default {
     data(){
       return {
-        title: this.$store.app.getTitlePage()
+        title: this.$store.app.getTitlePage("resume")
       }
     }
   }

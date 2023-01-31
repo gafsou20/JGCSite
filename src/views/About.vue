@@ -6,7 +6,7 @@
         <div class="row">
           <div class="col col-d-6 col-t-6 col-m-12 border-line-v">
             <div class="text-box">
-              <p v-html="$store.params.description[$store.params.lang]">                
+              <p v-html="$store.params.description[$store.params.lang]">
               </p>
             </div>
           </div>
@@ -20,7 +20,7 @@
   export default {
     data(){
       return {
-        title: this.$store.app.getTitlePage()
+        title: this.$store.app.getTitlePage("about")
       }
     }
   }
